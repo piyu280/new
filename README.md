@@ -1,4 +1,4 @@
-<a id="multi_object_tracking_"></a>
+<a id="object_tracking_"></a>
 # Multi Object Tracking | Google-Colab <img alt="Colaboratory logo" width="55px" src="https://colab.research.google.com/img/colab_favicon_256px.png" align="center">
 * **Simple Online and Realtime Tracking with a Deep Sort
 [[piyusha]](https://arxiv.org/abs/1703.07402)
